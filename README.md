@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poorrnimavetrivelan
 - 👀 I’m interested in solving analytical problems!
-- 🌱 I’m currently learning C++ and Full Stack in 2 online boot camps.
+- 🌱 I’m currently learning C++ and Full Stack Development in 2 online boot camps.
 - 💞️ I’m commited to learning now 
   
 
